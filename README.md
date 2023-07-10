@@ -1,5 +1,7 @@
 # flutter_app_simple
 
+https://app.bitrise.io/app/1736893d-c8cc-48b8-8ba9-529dcfbae274/status.svg?token=gas5JuO2dRPCbEpaGzZH3g&branch=main
+
 A new Flutter project.
 
 ## Getting Started
